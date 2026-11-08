@@ -63,7 +63,32 @@ Light-to-medium roasts are common in Egypt's Turkish coffee ("fateh"), so this i
 locally. Note for export markets: very light roasts can taste sharp when brewed this way; check
 acidity scores in blind tests with Gulf and Western panels.
 
-## 8. Testing rules
+## 8. Cardamom ratio
+
+10% cardamom is the signature, but it's a lot, and it may mask the floral and fruity notes that
+make Yemeni coffee special. Keep 90:10 as the control and test 99:1, 97:3, 95:5 and 90:10 blind.
+Don't assume less is better; let tasters decide. Run it with both Egyptian/Gulf and non-Arab
+panels, since the best ratio may differ by market.
+
+## 9. Roast profile
+
+The original belief was that a light roast suits everyone who likes medium or dark, but not the
+reverse. That isn't reliably true: light roasts keep more acidity and taste less "traditional" to
+many drinkers. Test light, medium and dark versions of the same lot blind.
+
+## 10. Allergen
+
+Pistachio is a tree-nut allergen. Disclose it on menus and packs, keep the side dish separate,
+and keep nut-free packs free of cross-contact.
+
+## 11. Decomposition: the machine's spec comes from here
+
+These tests do double duty. Besides improving the cup, they show **which variables are
+load-bearing**: the stirs, the ice, the heat curve, the cardamom ratio, the roast. A machine can't
+be built to "make it taste like mine"; it needs "variable X within range Y". Doc 12 takes its spec
+from these results.
+
+## 12. Testing rules
 
 - One variable at a time; everything else at spec v1.0.
 - At least 12 blind tasters per comparison, triangle test first ("which one is different?"),

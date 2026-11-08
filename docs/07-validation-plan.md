@@ -1,9 +1,20 @@
 # 07 — Validation Plan & Stage Gates
 
-Friends saying "best coffee I've ever had" is encouraging, but biased: they know the maker, and
-they tasted it in a warm setting. Before investing in a counter, the coffee has to beat strong
-competition **blind**, and strangers have to **pay full price and come back.** Each gate has
-explicit pass and kill criteria, in the same spirit as `vcola-tech-strategy` Doc 25.
+The founder has had many people taste this coffee over seven years, and they consistently rate it
+far above ordinary Turkish coffee. That's real evidence that **the finished cup is excellent**.
+What it can't show yet:
+
+- **Which inputs produce the quality.** Every tasting cup had every variable. The machine needs
+  the decomposition (Doc 03 §11).
+- **How it does against the right competitor.** Beating ordinary Turkish coffee is a low bar; the
+  price is set by the best Cairo coffeehouses.
+- **What strangers will pay.** People who know the maker, tasting for free, are the most biased
+  sample in sensory work, through no fault of theirs. Unanimous praise is itself a mild warning
+  sign; real preference panels almost always show some spread.
+
+So the gates below aren't about doubting the coffee. They turn it into evidence a franchisee, a
+lender or V7 will accept, and into a spec an engineer can build to. Each gate has pass and kill
+criteria, in the same spirit as `vcola-tech-strategy` Doc 25.
 
 ## Gate 0 — Specification frozen (week 0–2)
 - Doc 01 written; 20 pots logged with all measurements; video protocol recorded.
@@ -36,6 +47,19 @@ explicit pass and kill criteria, in the same spirit as `vcola-tech-strategy` Doc
 - **Pass:** tasters can't reliably tell them apart.
 - **Kill (for scaling):** only the founder can produce the cup. The venture then stays a
   founder-led boutique, which is still valuable for the V7 story, but don't open a second site.
+
+## Gate M — Machine parity (runs in parallel with Gates 2–4)
+- The machine prototype (Doc 12) brews against the founder's hand-brewed reference pot.
+- Blind triangle tests with trained tasters; then a preference test with strangers.
+- Also test: a pack aged 30 days vs a fresh pack; a 30-minute held pot vs fresh (Executive line).
+- **Pass:** tasters can't reliably pick the odd one out across repeated rounds.
+- **Kill (for franchising):** the machine is distinguishable. Fix and retest; nothing goes to an
+  operator before this passes.
+
+## Gate D — Daily tier (before the separate-brand launch)
+- The Daily cup blind against premium supermarket coffee brewed well and a chain café's cup.
+- Lab certificate of 100% coffee for the blend.
+- **Pass:** preferred over the supermarket benchmark at the EGP 50 test price.
 
 ## Gate 5 — Permanent counter & export test (month 6–12)
 - Only if Gates 1–4 pass. Permanent counter or residency; first Gulf pop-up; home blend online.

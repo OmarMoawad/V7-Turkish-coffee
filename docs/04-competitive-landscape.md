@@ -1,8 +1,8 @@
 # 04 — Competitive Landscape: How Does It Stack Up Against All Coffee?
 
-**The assumption for this doc:** the founder preserves the hand process exactly and builds no
-machine for now. So the product is a slow, hand-brewed pot of premium Turkish coffee, plus a home
-blend.
+**The assumption for §1–6:** the hand process only, so the product is a slow, hand-brewed pot of
+premium Turkish coffee plus a home blend. §7 covers how the machine and the Daily tier (Docs
+12–14) change the picture.
 
 ## 1. The honest frame
 
@@ -90,7 +90,21 @@ That is a **real but narrow** position:
 - **Cardamom at 10%** is a strong signature that delights Egyptian and Gulf palates but may
   narrow appeal in Western markets. Offer a lower-cardamom variant abroad if tests demand it.
 
-## 7. Bottom line
+## 7. How the machine and Daily tier change this picture
+
+The analysis above assumed hand brewing only. Two later decisions widen the reach (Docs 12–14):
+
+- **Machine-led Signature** lifts the "scalability" and "convenience" scores against chains and
+  specialty cafés without making the pot fast. The slow heat curve stays; the human labour goes.
+- **The Daily tier, under a separate brand,** enters Group A's territory (supermarket and
+  ordinary café cups) at about EGP 50 with a provable honesty claim. It doesn't try to beat the
+  EGP 15 home cup on price; it competes with the café cup on trust and consistency.
+
+The premium brand still shouldn't chase every coffee drinker. The target is to own defined
+occasions completely: premium café, hosting, gifting, the executive morning, and, under the
+second brand, the honest daily cup.
+
+## 8. Bottom line
 
 As a mass coffee, it can't compete and shouldn't. As a **premium Turkish coffee**, it has a
 credible claim to be the best in its city, and almost no one is competing seriously for that

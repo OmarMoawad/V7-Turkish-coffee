@@ -42,3 +42,20 @@ for price in (650,900):
 print("Caribou double 78.75 per serving; Signature per serving (pot=2):", 350/2, 450/2, "ratio", round(175/78.75,1), round(225/78.75,1))
 print("Wild Fox $105 in EGP", 105*FX)
 print("Port of Mokha $13/oz -> $/250g", round(13/28.35*250,0))
+
+print("\n--- Sensitivity: Yemeni coffee bought on the Cairo retail market (ChatGPT review refs) ---")
+for label,price,grams in (("EGP 417 / 200 g",417,200),("EGP 850 / 250 g",850,250)):
+    per_g=price/grams
+    print(f"{label}: EGP {per_g*1000:,.0f}/kg -> 18-24 g = EGP {18*per_g:.0f}-{24*per_g:.0f} per pot")
+
+print("\n--- Labour sensitivity (DeepSeek review: 15-20 min per pot) ---")
+for pph in (3,4,5,8):
+    print(f"{pph} pots/brewer-hour -> labour EGP {100/pph:.0f}/pot at EGP 100/hr; 60 pots/day needs {60/pph:.0f} brewer-hours")
+
+print("\n--- Honest daily tier (machine-brewed single cup, ~70 ml) ---")
+# assume fine robusta / commercial blend green $5-8/kg landed, 16% roast loss
+for green in (5,8):
+    r=green/0.84*FX/1000   # EGP per g roasted
+    coffee=8*r; card=0.8*0.035*FX; sugar=7*0.0008*FX; cup_misc=4; labour=3
+    total=coffee+card+sugar+cup_misc+labour
+    print(f"green ${green}/kg: coffee EGP {coffee:.1f} + cardamom {card:.1f} + sugar {sugar:.1f} + cup/misc {cup_misc} + labour {labour} = EGP {total:.1f}; at EGP 50 contribution {(1-total/50)*100:.0f}%")

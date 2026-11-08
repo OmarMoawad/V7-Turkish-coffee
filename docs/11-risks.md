@@ -13,3 +13,11 @@
 | **Food safety** (mastic/saffron fraud, contamination) | Low–Medium | High | Certified suppliers, lab certificates for saffron, PDO-labelled mastic, batch logs |
 | **Founder bandwidth** (studies, PPDS, other projects) | High | High | Treat year one as a part-time proof: weekend counter, small batches; hire the first brewer early |
 | **Stalled V7 conversation** | Medium | Medium | The coffee venture stands on its own; V7 is upside, not a dependency |
+| **Machine doesn't reach parity** with the hand-brewed pot | Medium | High | Gate M before any operator; MVP on an existing machine; spec from decomposition tests |
+| **Portfolio sprawl** (machine, franchise, five tiers, sherbet at once) | High | High | Build in the README order; each tier funds the next; two products per format at launch |
+| **Resale price rules** | Medium | Medium | Recommended prices + brand standards + supply dependency; competition-law review of the licence |
+| **Brand dilution** from the EGP 50 Daily tier | Medium | Medium | Separate brand and shelf identity |
+| **Pack shelf life** (fine grind loses aroma) | Medium | High | Nitrogen-flushed packs; blind shelf-life tests at 1/14/30/60 days |
+| **Over-engineering** (e.g. laser grinding) | Medium | Medium | Measure first; change a tool only when data shows it limits the cup |
+| **Machine R&D consuming sherbet capital** | Medium | High | Separate budgets (Doc 10 §4) |
+| **Unclear ownership** of IP built with V7 resources | Low | High | Short written agreement (Doc 10 §4) |

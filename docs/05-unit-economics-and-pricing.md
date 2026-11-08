@@ -70,7 +70,42 @@ double**. That's a premium price, but one an upscale Cairo customer can choose f
 Sixty pots a day needs about **12 brewer-hours**, i.e. two trained brewers on a full day. That
 is the binding constraint: **revenue scales with trained brewers, not with tables.**
 
-## 6. What this means
+## 6. Sensitivities from the external reviews
+
+**Coffee bought on the Cairo retail market.** Retail listings for Yemeni coffee in Cairo
+(EGP 417 per 200 g; EGP 850 per 250 g) work out to **EGP 2,085–3,400/kg**, below this doc's
+landed-specialty estimate of EGP 5,000–6,400/kg. At those prices the coffee in a pot costs
+**EGP 38–82** instead of ~EGP 96–146. Lots sold at retail may be lower grades or less traceable,
+so get real supplier quotes for traceable lots before fixing prices.
+
+**Slower brewing.** If a hand-brewed pot really takes 15–20 minutes, throughput is 3–4 pots per
+brewer-hour, not 5:
+
+| Pots per brewer-hour | Labour per pot (EGP 100/hr) | Brewer-hours for 60 pots/day |
+|---|---|---|
+| 3 | EGP 33 | 20 |
+| 4 | EGP 25 | 15 |
+| 5 | EGP 20 | 12 |
+| 8 (if the stir test passes) | EGP 12 | 8 |
+
+Reported Cairo barista pay is around EGP 7,000–10,000 per month; confirm locally and replace the
+EGP 100/hour assumption. Remember café labour is more than the brewer (cashier, service,
+cleaning); specialty cafés commonly run total labour near a third of revenue.
+
+**Independent check on price.** One review proposed EGP 180–220 per Signature cup. This doc's
+EGP 400–450 per pot for two is EGP 200–225 per cup, so two independent estimates land in the
+same place.
+
+## 7. The Daily tier and the machine (see Docs 12–14)
+
+- **Daily cup (~70 ml, machine-brewed):** coffee + cardamom + sugar + cup + light labour comes to
+  **EGP ~12–13** (estimate). At EGP 50 that's roughly **74–77% contribution**.
+- **Machine-led Signature:** one operator supervising several machines removes the per-pot labour
+  ceiling. Pot cost falls toward ingredients plus pack and machine amortisation.
+- **Franchise revenue** is mainly pack margin plus machine lease. Model it only once pack cost and
+  machine unit cost are known from the prototype.
+
+## 8. What this means
 
 - **Manual = small and premium.** One counter is a ~$100–250k/year business at best. That's
   enough to prove the brand and fund training, but not a large company by itself.

@@ -30,5 +30,16 @@ Accessed November 2026 unless noted. Facts are paraphrased; check sources before
 ## Premium benchmarks
 - Sprudge, Build-Outs of Coffee: The Wild Fox, San Francisco ($105 COE cup). https://sprudge.com/build-outs-of-coffee-the-wild-fox-in-san-francisco-ca-1159764.html
 
+## Additional market references (from the v2 reviews, not independently verified)
+- Cairo retail Yemeni coffee listings cited in the ChatGPT review: EGP 417 per 200 g; EGP 850 per 250 g. Conventional Cairo café Turkish coffee EGP 40–75; premium café ~EGP 100.
+- Cairo barista pay of about EGP 7,000–10,000 per month and Qahwah House's ~3-week barista training, cited in the DeepSeek review.
+- Treat these as leads to confirm, not as sourced figures.
+
+## External reviews that informed v2 (November 2026)
+- ChatGPT review (shared as text): cardamom-ratio and roast tests, six-subsystem machine concept, local price references, allergen disclosure, packaged formats, staged launch.
+- Kimi conversation (shared as .docx): fidelity-not-speed automation, human Ceremony tier, executive "kahvecibaşı" line, transit preservation, honest daily tier under a separate brand, resale-price caution, sequencing.
+- DeepSeek conversation (shared link): labour sensitivity, quality carried by the consumable, grinding discipline, decomposition-test reframe, capital firewall.
+Points were fact-checked and adapted; where the reviews disagreed, this repo states which view it adopted and why.
+
 ## Companion repo
 - `vcola-tech-strategy` — Docs 12–15 (heritage sherbet line), 25 (stage-gate), 29 (commercial discipline), 30 (honest positioning).

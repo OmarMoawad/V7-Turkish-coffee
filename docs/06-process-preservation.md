@@ -1,7 +1,7 @@
-# 06 — Process Preservation (No Machine)
+# 06 — Process Preservation
 
-The decision: **keep the method manual** and protect eight years of research and trials. The
-asset is know-how that currently lives in one person. If that person is unavailable, the business
+The decision: **keep the hand method alive** and protect eight years of research and trials, even
+as a machine is developed (Doc 12). The asset is know-how that currently lives in one person. If that person is unavailable, the business
 stops. This doc turns tacit skill into a system that survives, can be taught, and is hard to copy.
 
 ## 1. Codify: the Master Protocol
@@ -51,10 +51,14 @@ layered instead:
 - Each batch: roast date, origin lot, cupping notes logged.
 - Customer signals: track repeat visits and sugar-level choices.
 
-## 5. When to revisit a machine
+## 5. Machines and masters together
 
-Revisit only when **all three** are true: demand exceeds what trained brewers can serve; blind
-tests show which variables really matter (Doc 03); and the home blend is profitable. At that
-point the realistic route is **adapting an existing commercial Turkish coffee machine** to the
-measured heat curve, not inventing one. Automatic Turkish coffee machines already exist for home
-and commercial use, so the value lies in the protocol, not the hardware.
+The original plan delayed any machine. With V7 engineering access, the machine now runs as a
+parallel track (Doc 12), but the masters stay central:
+
+- **Masters** brew the Ceremony and Executive tiers by hand and train apprentices (Doc 14).
+- **The machine** reproduces the founder's protocol for the Signature, Reserve and Daily tiers.
+- **The founder's reference pot** is the standard both are tested against.
+
+Preservation is what makes the machine possible: the measurements in Doc 01 §4 and the
+decomposition tests in Doc 03 *are* the machine's specification.

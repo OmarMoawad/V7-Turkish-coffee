@@ -32,7 +32,33 @@ counter can add **2–3 sherbets** (e.g. tamarind, hibiscus, carob) as a small t
 4. Keep the coffee brand **yours**. Co-branding is a partnership, not a transfer. Decide early
    what V7 gets (sherbet distribution rights, a licence, an equity link) and what stays with you.
 
-## 4. Timing
+## 4. Working with V7's engineering team
+
+V7's leadership wants the founder to build a venture he fully owns, and has offered engineering
+support. That's a rare advantage. A short written note still protects the relationship as much as
+the business:
+
+- **Ownership:** the coffee brand, the protocol and the machine IP belong to the founder's company.
+- **What V7 contributes:** facilities and engineering time, described as a service, a small fee,
+  or a minority stake. Pick one and write it down.
+- **What V7 gets later:** first right to the sherbet partnership, co-branding terms, or an equity
+  link.
+
+Written terms matter most when people change roles or a board asks questions years from now, not
+when everyone agrees today.
+
+**Capital firewall.** Keep machine R&D, the coffee business and the future sherbet line as
+separate budgets. Machine development is the most capital-hungry part of the plan and shouldn't be
+able to consume the money or attention the sherbet revival needs.
+
+## 5. What the larger platform adds to the pitch
+
+If the machine and franchise work, the V7 conversation becomes stronger than the manual-only
+version: a proven heritage-beverage platform, engineering built partly with V7's own team, sales
+data from many locations, and a ready on-site channel where sherbets can be poured from the same
+counters.
+
+## 6. Timing
 
 - Don't pitch the coffee venture to V7 before Gate 3 (paid demand). Without paid data, it's
   another idea.
